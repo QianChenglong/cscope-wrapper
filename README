@@ -1,0 +1,10 @@
+# cscope-wrapper
+
+包装cscope，方便使用
+
+# 安装
+
+-   windows
+
+    使用`mklink`命令，建立软连接到PATH下，不能使用快捷方式，因为`.`当前路径出错
+
